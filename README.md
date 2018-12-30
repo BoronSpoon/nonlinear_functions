@@ -1,4 +1,4 @@
-# linear_functions_prediction
+# nonlinear_functions_prediction
 
 ## model summary
 <pre>
